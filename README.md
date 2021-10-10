@@ -3,7 +3,7 @@ This diagram shows mass and radius of various celestial bodies in the universe. 
 
 ![]<img src="https://github.com/tenoto/stellar_mass_and_radius/raw/main/fig_english/stellar_mass_radius_v210211en_copyright.jpeg" width="500" height="600">
 
-"""bash
+```bash
 ├── README.md
 ├── fig_english
 │   ├── stellar_mass_radius_v210211en.jpeg
@@ -18,4 +18,4 @@ This diagram shows mass and radius of various celestial bodies in the universe. 
 └── fig_wotext
     ├── stellar_mass_radius_v210211_wotext.jpeg
     └── stellar_mass_radius_v210211_wotext.pdf
-"""
+```
