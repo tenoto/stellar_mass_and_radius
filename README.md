@@ -7,18 +7,17 @@ This figure was prepared for a review article written in Japanese about neutron 
 
 ## Copyright
 
-English version was prepared for twitter with some modifications from the original. Please use it for educational purposes. If you prefer to handle copyright more carefully, it is recommended to refer "Enoto, Yasutake, Butsuri, vol. 56, 10, 637-645 (2021)" (original review article in Japanese) and/or "@teru_enoto" (Twitter account). 
+English version was prepared for twitter with some modifications from the original. Please use the above diagram for educational purposes, or check the jpeg/pdf files in the subdirectories. If you prefer to handle copyright more carefully, it is recommended to refer "Enoto, Yasutake, Butsuri, vol. 56, 10, 637-645 (2021)" (original review article in Japanese) and/or "@teru_enoto" (Twitter account). 
 
-For usage of the original Japanese version, please follow the instruction of the [JPS website](https://www.jps.or.jp/books/chosakuken/index.php).
+For reproduction usage of the original Japanese version, please follow the instruction of the [JPS website](https://www.jps.or.jp/books/chosakuken/index.php).
 
 ## Original figure and data 
 
-- [T. Enoto, N. Yasutake, Butsuri, vol. 56, 10, 637-645 (2021)](https://www.jps.or.jp/books/gakkaishi/2021/10/05/76-10_637overview%20articles2.pdf): Japanese version in a review article in Japanese 
+- [T. Enoto, N. Yasutake, Butsuri, vol. 56, 10, 637-645 (2021)](https://www.jps.or.jp/books/gakkaishi/2021/10/05/76-10_637overview%20articles2.pdf): Japanese version in a review article in Japanese, which has the original figure in Japanese  
 - [G. Torres, J. Andersen and A. Gimenez, Astron. Astrophys. Rev 18, 67(2010)](https://arxiv.org/abs/0908.2624): main-sequence stars
 - [J. Chen and D. Kipping, Astrophys. J. 834, 17(2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...834...17C/abstract): exoplanet
-- [P. E. Tremblay et al., Mon. Not. R. Astron. Soc. 465, 2849(2017)](https://arxiv.org/abs/1611.00629)
-- [tweet on October 7, 2021](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
-
+- [P. E. Tremblay et al., Mon. Not. R. Astron. Soc. 465, 2849(2017)](https://arxiv.org/abs/1611.00629): white dwarfs 
+- [K. S. Thorn, "ThorneBlack Holes and Time Warps: Einstein's Outrageous Legacy"](https://www.amazon.com/Black-Holes-Time-Warps-Commonwealth/dp/0393312763)
 
 ## Different versions (pdf/jpeg, language, and w/wo texts)
 
@@ -40,6 +39,8 @@ For usage of the original Japanese version, please follow the instruction of the
 ```
 
 ## Tweets
+
+A series of tweets from [a tweet on October 7, 2021](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
 
 Celestial bodies maintain shapes through the balance between self-gravity and outward pressure gradient. Interestingly, the planets, stars, white dwarfs, and neutron stars in this figure have different pressure origins and are distributed at different inclinations.
 
@@ -66,3 +67,11 @@ We can also see from this figure that as the mass increases in a black hole, the
 The 1.4 solar masses are the maximum mass of a white dwarf (Chandrasekhar limit mass), and about three solar mass is the estimated maximum mass of neutron stars. The horizontal lines depict these.
 
 I tweeted these as a caption of this figure. This diagram has been presented in several textbooks, but I reworked it in my own way. That was fun.
+
+## History
+
+- 2021, October 10, this page is preapred. Modification of a typo (burgning -> burning) 
+- 2021, October 7, [a tweet on October 7, 2021](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
+- 2021, October 6, [JPS Butsuri published](https://www.jps.or.jp/books/gakkaishi/2021/10/76-10.php)
+
+
