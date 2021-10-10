@@ -17,7 +17,7 @@ For reproduction usage of the original Japanese version, please follow the instr
 - [G. Torres, J. Andersen and A. Gimenez, Astron. Astrophys. Rev 18, 67(2010)](https://arxiv.org/abs/0908.2624): main-sequence stars
 - [J. Chen and D. Kipping, Astrophys. J. 834, 17(2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...834...17C/abstract): exoplanet
 - [P. E. Tremblay et al., Mon. Not. R. Astron. Soc. 465, 2849(2017)](https://arxiv.org/abs/1611.00629): white dwarfs 
-- [K. S. Thorn, "ThorneBlack Holes and Time Warps: Einstein's Outrageous Legacy"](https://www.amazon.com/Black-Holes-Time-Warps-Commonwealth/dp/0393312763)
+- [K. S. Thorn, "ThorneBlack Holes and Time Warps: Einstein's Outrageous Legacy"](https://www.amazon.com/Black-Holes-Time-Warps-Commonwealth/dp/0393312763): theoretical curves of compact objects 
 
 ## Different versions (pdf/jpeg, language, and w/wo texts)
 
