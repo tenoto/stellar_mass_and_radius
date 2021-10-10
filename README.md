@@ -13,9 +13,10 @@ For usage of the original Japanese version, please follow the instruction of the
 
 ## Original figure and data 
 
-- ["Enoto, Yasutake, Butsuri, vol. 56, 10, 637-645 (2021)"](https://www.jps.or.jp/books/gakkaishi/2021/10/76-10.php)): Japanese version in a review article in Japanese 
-- [Torres, Andersen, and Gimenez, Astron. Astrophys. Rev, 18, 67-126 (2010)](https://arxiv.org/abs/0908.2624): main-sequence stars
-- [Chen  and Kipping, ApJ, 834, 1, 17 (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...834...17C/abstract): exoplanet
+- [T. Enoto, N. Yasutake, Butsuri, vol. 56, 10, 637-645 (2021)](https://www.jps.or.jp/books/gakkaishi/2021/10/05/76-10_637overview%20articles2.pdf): Japanese version in a review article in Japanese 
+- [G. Torres, J. Andersen and A. Gimenez, Astron. Astrophys. Rev 18, 67(2010)](https://arxiv.org/abs/0908.2624): main-sequence stars
+- [J. Chen and D. Kipping, Astrophys. J. 834, 17(2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...834...17C/abstract): exoplanet
+- [P. E. Tremblay et al., Mon. Not. R. Astron. Soc. 465, 2849(2017)](https://arxiv.org/abs/1611.00629)
 - [tweet on October 7, 2021](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
 
 
@@ -38,7 +39,7 @@ For usage of the original Japanese version, please follow the instruction of the
     └── stellar_mass_radius_v210211_wotext.pdf (only pdf figure)
 ```
 
-## Note from tweets
+## Tweets
 
 Celestial bodies maintain shapes through the balance between self-gravity and outward pressure gradient. Interestingly, the planets, stars, white dwarfs, and neutron stars in this figure have different pressure origins and are distributed at different inclinations.
 
