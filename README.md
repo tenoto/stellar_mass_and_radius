@@ -71,7 +71,8 @@ I tweeted these as a caption of this figure. This diagram has been presented in 
 ## History
 
 - 2021, October 10, this page is preapred. Modification of a typo (burgning -> burning) 
-- 2021, October 7, [a tweet on October 7, 2021](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
+- 2021, October 7, [tweets on October 7, 2021 in English](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
+- 2021, October 7, [tweets on October 7, 2021 in Japanese](https://twitter.com/teru_enoto/status/1445868970666463232?s=20)
 - 2021, October 6, [JPS Butsuri published](https://www.jps.or.jp/books/gakkaishi/2021/10/76-10.php)
 
 
