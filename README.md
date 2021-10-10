@@ -1,9 +1,13 @@
 # Stellar mass and radius distribution 
-This diagram shows mass and radius of various celestial bodies in the universe. Planets, stars, white dwarfs, neutron stars, and black holes are included. Each star is being crushed by gravity, but pushed back by different pressures. Please feel free to use this figure for your lecture, seminar, etc. 
+This diagram shows mass and radius of various celestial bodies in the universe. Planets, stars, white dwarfs, neutron stars, and black holes are included. Each star is being crushed by gravity, but pushed back by different pressures. 
+
+This figure was prepared for a review article written in Japanese about neutron stars in the monthly journal "Butsuri" of the Physical Society of Japan. When tweeting the English version on [Twitter](https://twitter.com/teru_enoto/status/1446075332478574595?s=20), I received a lot of requests to use it in classes, so here I uploaded the figure. Please feel free to use this figure for your lecture, seminar, etc. 
 
 <img src="https://github.com/tenoto/stellar_mass_and_radius/raw/main/fig_english/stellar_mass_radius_v210211en_copyright.jpeg" width="500" height="600">
 
 ## Original figure and data 
+
+[tweet on October 7, 2021](https://twitter.com/teru_enoto/status/1446075332478574595?s=20)
 
 
 ## Different versions (pdf/jpeg, language, and w/wo texts)
